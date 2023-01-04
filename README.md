@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/static/v1?label=License&message=GNU%20GPL%20v2&color=db2331&style=flat-square&logo=gnu)](https://www.gnu.org/licenses/gpl-2.0.html)
+[![License](https://img.shields.io/static/v1?label=License&message=GNU%20GPL%20v2.0&color=db2331&style=flat-square&logo=gnu)](https://www.gnu.org/licenses/gpl-2.0.html)
 [![Minecraft ver](https://img.shields.io/static/v1?label=Minecraft%20version&message=1.6.0+%2B&color=db2331&style=flat-square&logo=)](https://minecraft.net)
 
 # GNU Unifont 希頂字母擴展包
